@@ -1,6 +1,6 @@
 name = "[SR] Super Resolution"
 filename = "super_resolution-neoforge-1.21-1.21.1-0.8.0-alpha.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

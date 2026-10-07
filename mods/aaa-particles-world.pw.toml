@@ -1,6 +1,6 @@
 name = "AAA Particles: World"
 filename = "aaa_particles_world-neoforge-1.21.1-2.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
