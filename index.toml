@@ -5,6 +5,10 @@ file = "COPYRIGHT - PaciWiz Base Pack.txt"
 hash = "7ecb402428f3ea1035fd1ce88ac182b3023bfb5cc25b8e42dd8f84eef7529aa2"
 
 [[files]]
+file = "LICENSE"
+hash = "80c022839ae5b6b8fc0f44bd4b15d9ef48f95247c6bfce774ee1b756c60b905a"
+
+[[files]]
 file = "config/carryon-common.toml"
 hash = "05df24327475e9ea6f95b585bdfcc19b8026360a385e3f25541de23f1ad5915b"
 
@@ -71,6 +75,10 @@ hash = "01ac4c387b388e2d383f8ca33da3b6e28222c00bb808f5b4577ed4a3545dee6d"
 [[files]]
 file = "config/starterkit/kits/Default.txt"
 hash = "330d9bafe460d269288a6ce0868d39be4902f151cbbf49309dbf6308a14933af"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "bcc9d12e55d02cb0806ce9f3a60eed21703a669b56977821ab5adbd4b1b665b8"
 
 [[files]]
 file = "mods/aaa-particles-world.pw.toml"
@@ -653,6 +661,10 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
+file = "mods/netmusiccanneedqq-0.2.1-neoforge-mc1.21.1-beta.jar"
+hash = "4575676235a5ff981d9429d07bc537047d432545abaab40b82dd0019a6bf217c"
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
@@ -1042,7 +1054,7 @@ hash = "db0ff71debc37b662184539f973c80efeddc7282098909acddfd74e42331677c"
 
 [[files]]
 file = "shaderpacks/Sundial Lite v1.2.0.zip.txt"
-hash = "d280abfc4f1af51de85d8e0b8b8b074a0a801e1c4ec934aecad3060dbee3030c"
+hash = "fa6bf599f081d15b39a56303837e97e5ae3a49f8c15e18ecb27546106438c959"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
