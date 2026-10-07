@@ -1,13 +1,13 @@
 name = "[SR] Super Resolution"
-filename = "super_resolution-neoforge-1.21-1.21.1-0.8.0-alpha.1.jar"
+filename = "super_resolution-neoforge-1.21..1.21.1-0.9.2-alpha.2+opengl.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "c2efcfce0952eb954a887100a012dac3587393e0"
+hash = "6813ed793821a7cde86cb61f6f34bc158426e3c9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6858392
-project-id = 1267249
+file-id = 9043248
+project-id = 1461023
