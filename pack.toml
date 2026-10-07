@@ -1,0 +1,13 @@
+name = "Pack Wiz Base Pack"
+author = "ChloePrime"
+version = "0.0.2-SNAPSHOT"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f48eadd17052e26ff720106da19266df20546c7f9e671d6185ed5df02518e108"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.256"

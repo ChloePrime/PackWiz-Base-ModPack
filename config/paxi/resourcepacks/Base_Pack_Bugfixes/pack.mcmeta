@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats":{
+      "min_inclusive":0,
+      "max_inclusive":2147483647
+    },
+    "description": "§7Bugfix resource pack of PackWiz Base Modpack"
+  }
+}

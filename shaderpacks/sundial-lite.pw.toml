@@ -1,0 +1,13 @@
+name = "Sundial Lite"
+filename = "Sundial Lite v1.2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b079dde0a481b554861131e26407da89a2250c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8977566
+project-id = 1562387

@@ -1,0 +1,13 @@
+name = "AAA Particles: World"
+filename = "aaa_particles_world-neoforge-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "577ddd74cf6de99dfb31f33f493ebcae539e00e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8279116
+project-id = 1157870
