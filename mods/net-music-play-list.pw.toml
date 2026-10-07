@@ -1,0 +1,13 @@
+name = "Net Music: Play List"
+filename = "net_music_list-2.2.4-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "813f66f466ecb26094b3faecd3d2caf7324dca7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7357345
+project-id = 1358723

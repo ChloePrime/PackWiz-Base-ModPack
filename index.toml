@@ -158,6 +158,11 @@ hash = "0f6b24d697903dc261c881c4a736ec57c57ed5384f23d77ca9f6cec1e954d559"
 metafile = true
 
 [[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "9009bd5cdcdbc6bc47a7fbb203844d9a551accdd796877bdba5233ac14bbd513"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
 metafile = true
@@ -185,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "16431ebe23e08d1d98e28e51ad76b675f2a7ed8a79234b68cb9c122a768cae5f"
+metafile = true
+
+[[files]]
+file = "mods/chat-impressive-animation.pw.toml"
+hash = "4de606a387df46da5a285f22c24405fd00c8e31d0f2b14c227f12762d2f136f3"
 metafile = true
 
 [[files]]
@@ -260,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "4bd3667f570f82fb1480f173ffb6259876f4620de3a085fb8d7a442d214c5b51"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "e0b7b35b16b7bd9bd494a4e32c2b5058bb67fa4b0979e33551fe40247ea937ef"
 metafile = true
 
 [[files]]
@@ -623,6 +638,16 @@ hash = "1b693100ab36f8b0422b5ec91b285df00dba2b616bdd4cd882cde3571d373e5c"
 metafile = true
 
 [[files]]
+file = "mods/net-music-play-list.pw.toml"
+hash = "f6c11c7afcc79f1351a125b7d95d2ff24512585b68b53d7eed53a2c01dcf5bef"
+metafile = true
+
+[[files]]
+file = "mods/net-music.pw.toml"
+hash = "b1c9ce0452e21f513103156946aa7f6b5c25fee08e31d07f3b2d5aff678a3c45"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
@@ -768,6 +793,11 @@ hash = "8a0271e7d5c8f4badd2886fd9a8ca75c5a33868ac90828cf3b5dbe932025a0fa"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "92d775fa3e0a9ffddbe066706ab18ee111216547b446e29a273d0131c2c95cdc"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -855,6 +885,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "bb48f46b7273421f7b80fb7a1abe1e778b9329bbfb615dca0b9efb61a67297f6"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "ccb454443d90a9bbbd60cfb05cf5cc8bc7235b981c89e40dc7796a41277e56b1"
 metafile = true
 
 [[files]]
