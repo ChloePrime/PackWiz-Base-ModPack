@@ -99,7 +99,7 @@ key_key.shouldersurfing.swap_shoulder:key.keyboard.h:
 key_key.shouldersurfing.toggle_first_person:key.keyboard.unknown:
 key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown:
 key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown:
-key_key.shouldersurfing.free_look:key.keyboard.unknown:
+key_key.shouldersurfing.free_look:key.keyboard.left.alt:
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown:
 key_key.shouldersurfing.toggle_x_offset_presets:key.keyboard.unknown:
 key_key.shouldersurfing.toggle_y_offset_presets:key.keyboard.unknown:
@@ -154,11 +154,11 @@ key_placebo.toggleWings:key.keyboard.unknown:
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b:
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown:
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown:
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown:
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown:
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:
 key_key.netmusiccanneedqq.open_config:key.keyboard.unknown:
 key_fpsreducer.key.openGui:key.keyboard.unknown:
 key_fpsreducer.key.forceIdle:key.keyboard.unknown:
